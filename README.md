@@ -1,0 +1,19 @@
+
+Hello, Hola, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیلو (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta
+
+
+
+<!---
+- 👋 Hi, I’m @kevpstephens
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+
+<!---
+kevpstephens/kevpstephens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
