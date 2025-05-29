@@ -11,10 +11,10 @@ Hello, Hola, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte)
 <br>
 
 ## 🛠️ Some Projects I'm Currently Working On:
-- [Daily Spews (Frontend)](https://github.com/kevpstephens/daily-spews-frontend) - A Reddit-style news app built with React & CSS
-- [Daily Spews (Backend)](https://github.com/kevpstephens/daily-spews-backend) - A RESTful API providing backend architecture for the Daily Spews app
+- [Daily Spews (Frontend)](https://github.com/kevpstephens/daily-spews-frontend) - A Reddit-style news app built with React & CSS.
+- [Daily Spews (Backend)](https://github.com/kevpstephens/daily-spews-backend) - A RESTful API providing backend architecture for the Daily Spews app.
 - ReelDiscussions - Letterboxd/IMDB-hybrid forum - more on that soon...
-- FoundIt - A web-based lost & found app, built in collaboration with 6 other budding and powerful devs
+- FoundIt - A web-based lost & found app, built with TypeScript and Next.js, in collaboration with 6 other budding and powerful devs.
 
 
 <!---
