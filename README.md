@@ -1,4 +1,4 @@
-Hello, Hola, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیلو (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta
+Hello, Hola, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیلو (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta!!!!
 
 <br>
 
