@@ -3,7 +3,7 @@
 <br>
 
 ## 👋 I'm Kevin :)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/kevin-stephenson-a1571b357/)
+[![LinkedIn - Kevin Stephenson](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/kevin-stephenson-a1571b357/)
 - I'm a very active and motivated software developer, primarily working with JavaScript, Node.js, and React
 - Currently adding TypeScript, and Next.js to my repertoire...
 - Open to collaboration and work opportunities, so don't be afraid to reach out!
