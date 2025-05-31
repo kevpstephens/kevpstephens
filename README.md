@@ -22,7 +22,7 @@
 
 <br>
 
-<h1 align="center">🛠️ Projects I'm Currently Working On 🛠️</h1>
+<h1 align="center">🛠️ Projects I'm Working On 🛠️</h1>
 
 - [Daily Spews (Frontend)](https://github.com/kevpstephens/daily-spews-frontend) - A Reddit-style news app built with React & CSS.
 - [Daily Spews (Backend)](https://github.com/kevpstephens/daily-spews-backend) - A RESTful API providing backend architecture for the Daily Spews app.
