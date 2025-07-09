@@ -7,7 +7,7 @@
 <h1 align="center">👋 I'm Kevin :)</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevin-stephenson-a1571b357/">
+  <a href="https://www.linkedin.com/in/kevin-p-stephenson/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/kevpstephens?tab=repositories">
