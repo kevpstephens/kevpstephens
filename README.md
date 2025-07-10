@@ -1,6 +1,6 @@
 <br>
 
-<p align="center"> ¡Hola, Hello, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیلو (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta! </p>
+<p align="center"> ¡Hola, Hello, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیলو (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta! </p>
 
 <br>
 
@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/kevin-p-stephenson/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://kevin-stephenson.com">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-28a745?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
     <a href="https://github.com/kevpstephens?tab=repositories">
       <img src="https://img.shields.io/badge/Explore_My_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
     </a>
@@ -19,6 +22,7 @@
 
 <br>
 
+- **Currently:** Open to new opportunities and collaboration
 - I'm a very active and motivated software developer, based in Birmingham, UK 🇬🇧
 - Bootcamp graduate from Northcoders (March–June 2025)
 - Former equities trader and drama graduate turned passionate coder
@@ -32,14 +36,18 @@
 </div>
 
 ### 🗞️ [Daily Spews](https://daily-spews.onrender.com/)
+
 **A Reddit-style news app**
+
 - **Backend:** RESTful API with Express.js & PostgreSQL
 - **Frontend:** React, CSS, responsive design
 - **Features:** User authentication, voting system, comment threads, post articles
 - 🔗 [Live Demo](https://daily-spews.onrender.com/) | [Backend Repo](https://github.com/kevpstephens/daily-spews-backend) | [Frontend Repo](https://github.com/kevpstephens/daily-spews-frontend)
 
 ### 🔍 [FoundIt](https://see-it-post-it-foundit.netlify.app/)
+
 **Collaborative lost & found web application**
+
 - **Tech Stack:** TypeScript, Next.js, MongoDB
 - **Team:** Built with 6 other developers using Agile methodology
 - **Role:** Full-stack development, API integration, UI/UX design
@@ -49,7 +57,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 </div>
 
@@ -129,36 +137,62 @@
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
+<div align="center">
+<h1>📊 GitHub Stats</h1>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Kevin's GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&ring_color=F8D866&currStreakLabel=F8D866" alt="Kevin's GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevpstephens&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Kevin's Top Languages" />
 </div>
 
----
+<br/>
 
-## 🌱 Currently Learning
+<div align="center">
+<h2>🎭 From Stage to Code</h2>
+<h3><i>"Every great performance requires preparation, practice, and the ability to adapt when things don't go as planned - skills that translate perfectly from theater to software development."</i></h3>
+<p><strong>My journey:</strong> Shakespeare → Stock Markets → Software</p>
+</div>
+
+<br/>
+
+<div align="center">
+<h1>🌱 Currently Learning</h1>
+</div>
 
 - Advanced React patterns and performance optimization
 - Cloud deployment strategies (AWS, Docker)
 - GraphQL and modern API design
 - TypeScript best practices
 
----
-
-## 📫 Let's Connect!
-
-I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about code, share project ideas, or discuss the transition from finance to tech, I'd love to hear from you!
+<br/>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-p-stephenson/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevpstephens)
-  
-  <p><em>💡 "From analyzing market patterns to debugging code patterns - the problem-solving mindset remains the same!"</em></p>
-  
+<h1>📫 Let's Connect!</h1>
+</div>
+
+I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about code, share project ideas, or you're simply curious about any of my work and would like to say "hi" - I'd love to hear from you!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-p-stephenson/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-28a745?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevin-stephenson.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevpstephenson@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevpstephens)
+
+<br/>
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Random Dev Joke" />
+</div>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=F85D7F&style=for-the-badge&label=Profile+Views)
+
 </div>
