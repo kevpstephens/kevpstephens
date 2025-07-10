@@ -96,19 +96,19 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind" />
 
-<br>
+<br><br>
 
 ### 🗃️ **Databases & Testing**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,jest" />
 
-<br>
+<br><br>
 
 ### 🔧 **Tools & Development**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 
-<br>
+<br><br>
 
 ### ☁️ **Deployment & API Tools**
 
