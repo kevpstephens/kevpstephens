@@ -28,7 +28,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
-<br/>
+<br>
 
 - **Currently:** Open to new opportunities and collaboration
 - I'm a very active and motivated software developer, based in Birmingham, UK 🇬🇧
@@ -42,8 +42,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
-
-<br>
 
 <div align="center" >
 <h1>📁 Featured Projects</h1>
@@ -74,8 +72,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
-
-<br>
 
 # 🛠️ Tech Stack & Tools
 
@@ -113,8 +109,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
-<br>
-
 <div align="center">
 <h1>📊 GitHub Stats</h1>
 </div>
@@ -125,7 +119,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00a085" alt="Kevin's GitHub Stats" />
 </div>
 
-<br/>
+<>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&ring_color=00a085&currStreakLabel=00a085" alt="Kevin's GitHub Streak" />
@@ -143,8 +137,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
-<br>
-
 <div align="center">
 <h1>📫 Let's Connect!</h1>
 </div>
@@ -153,7 +145,7 @@
 
 I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about code, share project ideas, or you're simply curious about any of my work and would like to say "hi" - I'd love to hear from you!
 
-<br/>
+<>
 
 <div align="center">
 
@@ -162,7 +154,7 @@ I'm always interested in connecting with fellow developers, discussing new techn
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevpstephenson@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevpstephens)
 
-<br/>
+<br><br>
 
 <details>
 <summary><strong> const devJoke = async () => await laugh().catch(e => console.log('404: funny not found'))</strong> </summary>
@@ -172,13 +164,13 @@ I'm always interested in connecting with fellow developers, discussing new techn
 </div>
 </details>
 
-<br/><br/>
+<><>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=footer&text=&fontSize=0" />
 </div>
 
-<br/><br/>
+<><>
 
 <div align="right">
 
