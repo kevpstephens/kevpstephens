@@ -25,15 +25,8 @@
 <br>
 
 <div align="center">
-  <hr style="border: 2px solid #00d4aa; width: 60%; margin: 20px auto;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:00a085&height=2&width=200&section=divider" />
 </div>
-
-<div align="center">
-  <div style="width: 60%; height: 2px; background-color: #00d4aa; margin: 20px auto;"></div>
-</div>
-
-<div align="center">
-  <p style="color: #00d4aa; font-size: 20px; margin: 20px 0;">━━━━━━━━━━━━━
 
 <br/>
 
