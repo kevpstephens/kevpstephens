@@ -185,6 +185,8 @@ I'm always interested in connecting with fellow developers, discussing new techn
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=F85D7F&style=for-the-badge&label=Profile+Views)
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=F85D7F&style=for-the-badge&label=👀+_+👀_+👀)
 
 </div>
