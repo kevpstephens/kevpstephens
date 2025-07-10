@@ -1,21 +1,22 @@
-<br>
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=80&section=header&text=&fontSize=0" />
+</div>
 
-<p align="center"> ¡Hola, Hello, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیলো (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta! </p>
-
 <br>
-
----
 
 <div align="center">
-  <h1>👋 Hello, I'm Kevin!</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1800&pause=1200&color=00d4aa&center=true&vCenter=true&width=700&lines=👋+Hello%2C+I'm+Kevin!;👋+Kamusta%2C+ako+si+Kevin!;👋+Здравствуйте%2C+я+Kevin!;👋+გამარჯობა%2C+მე+ვარ+Kevin!;👋+¡Hola%2C+soy+Kevin!;👋+Bonjour%2C+je+suis+Kevin!;👋+Hallo%2C+ich+bin+Kevin!;👋+Ciao%2C+sono+Kevin!;👋+Olá%2C+eu+sou+Kevin!;👋+你好%2C+我是+Kevin!;👋+こんにちは%2C+Kevin+です!;👋+안녕하세요%2C+저는+Kevin!;👋+مرحبا%2C+أنا+Kevin!;👋+नमस्ते%2C+मैं+Kevin+हूँ!;👋+হ্যালো%2C+আমি+Kevin!;👋+নমস্কার%2C+আমি+Kevin!;👋+ہیলো%2C+میں+Kevin+ہوں!;👋+السلام+علیکم%2C+أنا+Kevin!;👋+Merhaba%2C+ben+Kevin!;👋+سلام%2C+من+Kevin+هستم!;👋+Hujambo%2C+mimi+ni+Kevin!;👋+Jambo%2C+mimi+ni+Kevin!;👋+Xin+chào%2C+tôi+là+Kevin!;👋+สวัสดี%2C+ผม+Kevin!;👋+Γειά+σου%2C+είμαι+Kevin!;👋+Hallo%2C+ik+ben+Kevin!;👋+Cześć%2C+jestem+Kevin!;👋+Salut%2C+sunt+Kevin!;👋+שלום%2C+אני+Kevin!;👋+Halo%2C+saya+Kevin!" alt="Multilingual Greeting" />
+
 <h3>🎭 Drama Graduate → 📈 Equities Trader → 👨🏻‍💻 Full-Stack Developer</h3>
+
+<br>
+
   <p>
     <a href="https://www.linkedin.com/in/kevin-p-stephenson/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://kevin-stephenson.com">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-28a745?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
     <a href="https://github.com/kevpstephens?tab=repositories">
       <img src="https://img.shields.io/badge/Github-Explore_My_Code-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -25,6 +26,12 @@
 
 <br>
 
+<div align="center">
+  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+</div>
+
+<br/>
+
 - **Currently:** Open to new opportunities and collaboration
 - I'm a very active and motivated software developer, based in Birmingham, UK 🇬🇧
 - Bootcamp graduate from Northcoders (March–June 2025)
@@ -32,11 +39,15 @@
 - Love solving problems, building useful tools, and I'm not afraid of learning new tech
 - Always open to collaboration or a chat - feel free to connect!
 
-<br>
-
----
+<br><br>
 
 <div align="center">
+  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+</div>
+
+<br>
+
+<div align="center" >
 <h1>📁 Featured Projects</h1>
 </div>
 
@@ -58,124 +69,81 @@
 - **Role:** Full-stack development, API integration, UI/UX design
 - 🔗 [Live Demo](https://see-it-post-it-foundit.netlify.app) | [Team Organisation](https://github.com/Team-423) | [Backend Repo](https://github.com/Team-423/foundit-backend) | [Frontend Repo](https://github.com/Team-423/foundit-frontend)
 
-<br>
+<br><br>
 
 <div align="center">
 
----
+<div align="center">
+  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+</div>
+
+<br>
 
 # 🛠️ Tech Stack & Tools
 
 <br>
 
-</div>
+<div align="center">
 
-<table align="center">
-<tr>
-<td align="center"><strong>💻 Languages & Frameworks</strong></td>
-<td align="center"><strong>🗃️ Databases & Storage</strong></td>
-<td align="center"><strong>🔍 Testing & Quality</strong></td>
-</tr>
-<tr>
-<td align="center">
+### 💻 **Languages & Frameworks**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</td>
-<td align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</td>
-<td align="center">
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
-![Supertest](https://img.shields.io/badge/Supertest-07C160?style=for-the-badge&logo=node.js&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td align="center"><strong>🧪 Development Tools</strong></td>
-<td align="center"><strong>☁️ Deployment & Services</strong></td>
-<td align="center"><strong>🔧 API & Testing Tools</strong></td>
-</tr>
-<tr>
-
-<br/>
-
-<td align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td align="center">
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</td>
-<td align="center">
-
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind" />
 
 <br>
 
----
+### 🗃️ **Databases & Testing**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,jest" />
+
+<br>
+
+### 🔧 **Tools & Development**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+
+<br>
+
+### ☁️ **Deployment & API Tools**
+
+<img src="https://skillicons.dev/icons?i=netlify,supabase,render,postman" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+</div>
+
+<br>
 
 <div align="center">
 <h1>📊 GitHub Stats</h1>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00a085" alt="Kevin's GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&ring_color=F8D866&currStreakLabel=F8D866" alt="Kevin's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&ring_color=00a085&currStreakLabel=00a085" alt="Kevin's GitHub Streak" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevpstephens&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Kevin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevpstephens&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa" alt="Kevin's Top Languages" />
 </div>
 
-<br/>
+<br><br>
 
----
+<div align="center">
+  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+</div>
+
+<br>
 
 <div align="center">
 <h1>📫 Let's Connect!</h1>
@@ -194,14 +162,18 @@ I'm always interested in connecting with fellow developers, discussing new techn
 
 <br/>
 
+<details>
+<summary><strong> const devJoke = async () => await laugh().catch(e => console.log('404: funny not found'))</strong> </summary>
+<br>
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Random Dev Joke" />
 </div>
+</details>
 
 <br/>
 
 <div align="right">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=F85D7F&style=for-the-badge&label=👀+_+👀_+👀)
+![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=00d4aa&style=for-the-badge&label=👀+_+👀_+👀)
 
 </div>
