@@ -184,10 +184,22 @@ I'm always interested in connecting with fellow developers, discussing new techn
 
 <!-- Dev Joke Section -->
 
-<div align="center" >
+<div align="left" >
+
+```js
+const badDevJoke = async () => {
+  try {
+    await laugh();
+  } catch (e) {
+    console.log("404: funny not found");
+  }
+};
+```
+
+<div align="center"  >
 
 <details>
-<summary><strong> const devJoke = async () => await laugh().catch(e => console.log('404: funny not found'))</strong> </summary>
+<summary><strong>badDevJoke()</strong></summary>
 
 <br>
 
