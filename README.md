@@ -17,8 +17,8 @@
 
 <!-- Social Links -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-p-stephenson/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevin-stephenson.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-p-stephenson/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevin-stephenson.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevpstephens)
 
 </div>
