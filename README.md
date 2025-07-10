@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
 </div>
 
 <br/>
@@ -42,7 +42,7 @@
 <br><br>
 
 <div align="center">
-  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
 </div>
 
 <br>
@@ -74,7 +74,7 @@
 <div align="center">
 
 <div align="center">
-  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
 </div>
 
 <br>
@@ -112,7 +112,7 @@
 <br><br>
 
 <div align="center">
-  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
 </div>
 
 <br>
@@ -120,6 +120,8 @@
 <div align="center">
 <h1>📊 GitHub Stats</h1>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00a085" alt="Kevin's GitHub Stats" />
@@ -140,7 +142,7 @@
 <br><br>
 
 <div align="center">
-  <img width="65%" height="3" style="background: linear-gradient(90deg, transparent, #00d4aa, transparent);" alt="" />
+  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
 </div>
 
 <br>
@@ -148,6 +150,8 @@
 <div align="center">
 <h1>📫 Let's Connect!</h1>
 </div>
+
+<br>
 
 I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about code, share project ideas, or you're simply curious about any of my work and would like to say "hi" - I'd love to hear from you!
 
