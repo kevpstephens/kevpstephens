@@ -171,10 +171,10 @@ I'm always interested in connecting with fellow developers, discussing new techn
 
 <!-- Social Links (Footer) -->
 
-<div align="center">
+<div align="center" >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-p-stephenson/) &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-28a745?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevin-stephenson.com) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevin-stephenson.com)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevpstephenson@gmail.com) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevpstephens?tab=repositories)
 
@@ -196,7 +196,9 @@ const probablyQuiteBadDevJoke = async () => {
 };
 ```
 
-<div align="center"  >
+<br>
+
+<div align="center" >
 
 <details>
 <summary><strong>probablyQuiteBadDevJoke()</strong></summary>
@@ -222,6 +224,6 @@ const probablyQuiteBadDevJoke = async () => {
 
 <div align="right">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=00d4aa&style=for-the-badge&label=👀+_+👀_+👀)
+![Profile Views](https://komarev.com/ghpvc/?username=kevpstephens&color=00d4aa&style=for-the-badge&label=👀+_+👀+_+👀+_)
 
 </div>
