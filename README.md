@@ -187,7 +187,7 @@ I'm always interested in connecting with fellow developers, discussing new techn
 <div align="left" >
 
 ```js
-const badDevJoke = async () => {
+const probablyQuiteBadDevJoke = async () => {
   try {
     await laugh();
   } catch (e) {
@@ -199,7 +199,7 @@ const badDevJoke = async () => {
 <div align="center"  >
 
 <details>
-<summary><strong>badDevJoke()</strong></summary>
+<summary><strong>probablyQuiteBadDevJoke()</strong></summary>
 
 <br>
 
