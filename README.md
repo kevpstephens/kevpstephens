@@ -1,8 +1,11 @@
 <br>
+<br>
 
 <p align="center"> ¡Hola, Hello, Bonjour, Hallo, Ciao, Olá, Здравствуйте (Zdravstvuyte), 你好 (Nǐ hǎo), こんにちは (Konnichiwa), 안녕하세요 (Annyeong haseyo), مرحبا (Marhaban), नमस्ते (Namaste), হ্যালো (Hyālō), নমস্কার (Nomoshkar), ہیলো (Hello), السلام علیکم (As-salamu alaykum), Merhaba, سلام (Salām), Hujambo, Jambo, Xin chào, สวัสดี (Sawasdee), Γειά σου (Yia sou), Hallo, Cześć, Salut, שלום (Shalom), Halo, Kamusta! </p>
 
 <br>
+
+---
 
 <div align="center">
   <h1>👋 Hello, I'm Kevin!</h1>
@@ -31,6 +34,8 @@
 
 <br>
 
+---
+
 <div align="center">
 <h1>📁 Featured Projects</h1>
 </div>
@@ -56,6 +61,8 @@
 <br>
 
 <div align="center">
+
+---
 
 # 🛠️ Tech Stack & Tools
 
@@ -144,6 +151,8 @@
 
 <br>
 
+---
+
 <div align="center">
 <h1>📊 GitHub Stats</h1>
 </div>
@@ -152,15 +161,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Kevin's GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&ring_color=F8D866&currStreakLabel=F8D866" alt="Kevin's GitHub Streak" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevpstephens&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Kevin's Top Languages" />
 </div>
 
 <br/>
+
+---
 
 <div align="center">
 <h1>📫 Let's Connect!</h1>
