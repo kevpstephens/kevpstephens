@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=80&section=header&text=&fontSize=0" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1800&pause=1200&color=00d4aa&center=true&vCenter=true&width=700&lines=👋+Hello%2C+I'm+Kevin!;👋+Kamusta%2C+ako+si+Kevin!;👋+Здравствуйте%2C+я+Kevin!;👋+გამარჯობა%2C+მე+ვარ+Kevin!;👋+¡Hola%2C+soy+Kevin!;👋+Bonjour%2C+je+suis+Kevin!;👋+Hallo%2C+ich+bin+Kevin!;👋+Ciao%2C+sono+Kevin!;👋+Olá%2C+eu+sou+Kevin!;👋+你好%2C+我是+Kevin!;👋+こんにちは%2C+Kevin+です!;👋+안녕하세요%2C+저는+Kevin!;👋+مرحبا%2C+أنا+Kevin!;👋+नमस्ते%2C+मैं+Kevin+हूँ!;👋+হ্যালো%2C+আমি+Kevin!;👋+নমস্কার%2C+আমি+Kevin!;👋+ہیলো%2C+میں+Kevin+ہوں!;👋+السلام+علیکم%2C+أنا+Kevin!;👋+Merhaba%2C+ben+Kevin!;👋+سلام%2C+من+Kevin+هستم!;👋+Hujambo%2C+mimi+ni+Kevin!;👋+Jambo%2C+mimi+ni+Kevin!;👋+Xin+chào%2C+tôi+là+Kevin!;👋+สวัสดี%2C+ผม+Kevin!;👋+Γειά+σου%2C+είμαι+Kevin!;👋+Hallo%2C+ik+ben+Kevin!;👋+Cześć%2C+jestem+Kevin!;👋+Salut%2C+sunt+Kevin!;👋+שלום%2C+אני+Kevin!;👋+Halo%2C+saya+Kevin!" alt="Multilingual Greeting" />
 
@@ -27,8 +25,15 @@
 <br>
 
 <div align="center">
-  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
+  <hr style="border: 2px solid #00d4aa; width: 60%; margin: 20px auto;">
 </div>
+
+<div align="center">
+  <div style="width: 60%; height: 2px; background-color: #00d4aa; margin: 20px auto;"></div>
+</div>
+
+<div align="center">
+  <p style="color: #00d4aa; font-size: 20px; margin: 20px 0;">━━━━━━━━━━━━━
 
 <br/>
 
