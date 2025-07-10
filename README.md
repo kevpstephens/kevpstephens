@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=80&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=header&text=&fontSize=0" />
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:00a085&height=2&width=200&section=divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
 <br/>
@@ -40,7 +40,7 @@
 <br><br>
 
 <div align="center">
-  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
 <br>
@@ -72,7 +72,7 @@
 <div align="center">
 
 <div align="center">
-  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
 <br>
@@ -110,7 +110,7 @@
 <br><br>
 
 <div align="center">
-  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
 <br>
@@ -140,7 +140,7 @@
 <br><br>
 
 <div align="center">
-  <img width="60%" height="2" alt="" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3e%3crect width='100' height='2' fill='%2300d4aa'/%3e%3c/svg%3e">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
 <br>
@@ -172,7 +172,13 @@ I'm always interested in connecting with fellow developers, discussing new techn
 </div>
 </details>
 
-<br/>
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=footer&text=&fontSize=0" />
+</div>
+
+<br/><br/>
 
 <div align="right">
 
