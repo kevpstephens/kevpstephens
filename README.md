@@ -119,7 +119,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00a085" alt="Kevin's GitHub Stats" />
 </div>
 
-<>
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&ring_color=00a085&currStreakLabel=00a085" alt="Kevin's GitHub Streak" />
@@ -145,7 +145,7 @@
 
 I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about code, share project ideas, or you're simply curious about any of my work and would like to say "hi" - I'd love to hear from you!
 
-<>
+<br>
 
 <div align="center">
 
@@ -164,13 +164,13 @@ I'm always interested in connecting with fellow developers, discussing new techn
 </div>
 </details>
 
-<><>
+<br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=footer&text=&fontSize=0" />
 </div>
 
-<><>
+<br><br>
 
 <div align="right">
 
