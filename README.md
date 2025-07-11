@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=header&text=&fontSize=0" />
 </div>
 
-<br>
+<br><br>
 
 <!-- Multilingual Typing Greeting -->
 
