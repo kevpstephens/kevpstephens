@@ -14,7 +14,7 @@
 
 <h3>🎭 Drama Graduate → 📈 Equities Trader → 👨🏻‍💻 Full-Stack Developer</h3>
 
-<br><br>
+<br>
 
 <!-- Social Links -->
 
