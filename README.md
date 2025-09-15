@@ -56,6 +56,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
 </div>
 
+<!-- Currently Working On Section -->
+
+<div align="center">
+<h1>🚀 Currently Working On</h1>
+</div>
+
+<br>
+
+### 🤖 Bertie Bot (Work in Progress)
+
+- Exploring the intersection of **AI integration** and **customisable user experiences**  
+- Building a **no-code platform** that empowers small businesses to easily deploy AI-powered tools  
+- Focused on creating **seamless workflows** that save time and enhance customer interactions - more details coming soon!
+
+<br><br>
+
+<!-- Section Divider -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
+</div>
+
 <!-- Featured Projects Section -->
 
 <div align="center">
