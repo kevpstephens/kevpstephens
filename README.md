@@ -78,6 +78,8 @@ Pickup football organiser - join via link or QR, track RSVPs and payments
 - **Features:** Share join links & QR codes, squad payment tracking, team creation, push notifications, and deep linking
 - 🔗 [Live Site](https://www.subonapp.com/) | [Web App](https://sub-on-web.vercel.app)
 
+<br>
+
 ### 🎬 [SceneTogether](https://scenetogether.netlify.app/)
 
 Community platform for discovering and attending local film screenings
@@ -98,6 +100,8 @@ Community platform for discovering and attending local film screenings
 - **Stack:** Expo / React Native, Express.js, Prisma, PostgreSQL, Supabase Auth, TMDB, Stripe
 - **Features:** Browse screenings with movie data, one-tap RSVP, calendar sync, admin dashboard, and flexible ticketing (free, fixed, pay-what-you-can)
 - 🔗 [Live Demo](https://scenetogether.netlify.app/) | [GitHub Repo](https://github.com/kevpstephens/scene-together)
+
+<br>
 
 ### 🔍 [FoundIt](https://see-it-post-it-foundit.netlify.app/)
 
