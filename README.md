@@ -1,6 +1,7 @@
+<!-- markdownlint-disable MD033 MD036 MD041 MD045 MD012 -->
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=header&text=&fontSize=0" alt="" />
 </div>
 
 <br>
@@ -34,48 +35,26 @@
 <!-- Section Divider -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" alt="" />
 </div>
 
 <br>
 
 <!-- About Me Section -->
 
-- **Currently:** Technical Systems Developer at Impacting Lives Limited — building business systems, workflow automation, and Google Apps Script solutions
-- **Also building:** [SubOn](https://www.subonapp.com/) — my pickup football SaaS for organisers (Expo, Next.js, Supabase, Stripe)
+- **Currently:** Technical Systems Developer at Impacting Lives Limited - building business systems, workflow automation, and Google Apps Script solutions
+- **Also building:** [SubOn](https://www.subonapp.com/) - my pickup football SaaS for organisers (Expo, Next.js, Supabase, Stripe)
 - Based in Birmingham, UK 🇬🇧 · Northcoders graduate (March–June 2025)
 - Former equities trader and drama graduate turned passionate developer
 - I love solving real problems, shipping useful products, and learning new tech along the way
-- Always open to collaboration or a chat — feel free to connect!
+- Always open to collaboration or a chat - feel free to connect!
 
 <br><br>
 
 <!-- Section Divider -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
-</div>
-
-<!-- Currently Working On Section -->
-
-<div align="center">
-<h1>🚀 Currently Working On</h1>
-</div>
-
-<br>
-
-### 🤖 Bertie Bot (Work in Progress)
-
-- Exploring the intersection of **AI integration** and **customisable user experiences**  
-- Building a **no-code platform** that empowers small businesses to easily deploy AI-powered tools  
-- Focused on creating **seamless workflows** that save time and enhance customer interactions - more details coming soon!
-
-<br><br>
-
-<!-- Section Divider -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" alt="" />
 </div>
 
 <!-- Featured Projects Section -->
@@ -86,34 +65,49 @@
 
 ### ⚽ [SubOn](https://www.subonapp.com/) _(in progress)_
 
-**Pickup football organiser — join via link or QR, track RSVPs and payments**
+Pickup football organiser - join via link or QR, track RSVPs and payments
+
+<p align="center">
+  <a href="https://www.subonapp.com/">
+    <img src="./assets/projects/subon.png" alt="SubOn preview" width="520" />
+  </a>
+</p>
 
 - **Stack:** Expo / React Native, Next.js, Supabase, PostgreSQL, Stripe, RevenueCat
-- **Monorepo:** pnpm workspaces + Turbo — native iOS/Android apps and a web layer for marketing, join/pay flows, and SubOn Pro billing
+- **Monorepo:** pnpm workspaces + Turbo - native iOS/Android apps and a web layer for marketing, join/pay flows, and SubOn Pro billing
 - **Features:** Share join links & QR codes, squad payment tracking, team creation, push notifications, and deep linking
 - 🔗 [Live Site](https://www.subonapp.com/) | [Web App](https://sub-on-web.vercel.app)
 
 ### 🎬 [SceneTogether](https://scenetogether.netlify.app/)
 
-**Community platform for discovering and attending local film screenings**
+Community platform for discovering and attending local film screenings
 
-- **Commissioned project** for Tech Returners — cross-platform on iOS, Android, and web
+<p align="center">
+  <a href="https://scenetogether.netlify.app/">
+    <img src="./assets/projects/scene-together.png" alt="SceneTogether preview" width="520" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/kevpstephens/scene-together">
+    <img src="./profile/pin-scene-together.svg" alt="SceneTogether repo card" />
+  </a>
+</div>
+
+- **Commissioned project** for Tech Returners - cross-platform on iOS, Android, and web
 - **Stack:** Expo / React Native, Express.js, Prisma, PostgreSQL, Supabase Auth, TMDB, Stripe
 - **Features:** Browse screenings with movie data, one-tap RSVP, calendar sync, admin dashboard, and flexible ticketing (free, fixed, pay-what-you-can)
 - 🔗 [Live Demo](https://scenetogether.netlify.app/) | [GitHub Repo](https://github.com/kevpstephens/scene-together)
 
-<!-- ### 🗞️ [Daily Spews](https://daily-spews.onrender.com/)
-
-**A Reddit-style satirical news platform**
-
-- **Backend:** Express.js, PostgreSQL & Supabase — JWT auth, file uploads, 123+ tests, security middleware
-- **Frontend:** React 19 — optimistic UI, infinite scroll, image cropping, mobile-first responsive design
-- **Features:** User authentication, voting, comment threads, topic filtering
-- 🔗 [Live Demo](https://daily-spews.onrender.com/) | [Backend Repo](https://github.com/kevpstephens/daily-spews-backend) | [Frontend Repo](https://github.com/kevpstephens/daily-spews-frontend) -->
-
 ### 🔍 [FoundIt](https://see-it-post-it-foundit.netlify.app/)
 
-**Collaborative lost & found web application**
+Collaborative lost & found web application
+
+<p align="center">
+  <a href="https://see-it-post-it-foundit.netlify.app/">
+    <img src="./assets/projects/foundit.png" alt="FoundIt preview" width="520" />
+  </a>
+</p>
 
 - **Tech Stack:** TypeScript, Next.js, MongoDB, Socket.io, Tailwind CSS
 - **Team:** Built with 6 other developers (Carly, Wan, Pourya, Ellie, Irina, Lera) using Agile methodology
@@ -125,7 +119,7 @@
 <!-- Section Divider -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" alt="" />
 </div>
 
 <!-- Tech Stack & Tools Section -->
@@ -167,7 +161,7 @@
 <!-- Section Divider -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" alt="" />
 </div>
 
 <!-- GitHub Stats Section -->
@@ -179,19 +173,35 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevpstephens&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00a085" alt="Kevin's GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Kevin's GitHub Stats" />
+  &nbsp;
+  <img src="./profile/top-langs.svg" alt="Kevin's Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevpstephens&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa&ring_color=00a085&currStreakLabel=00a085" alt="Kevin's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kevpstephens&theme=react&hide_border=true&background=0D1117&ring=00a085&fire=00d4aa&currStreakNum=00d4aa&sideNums=00d4aa&currStreakLabel=00a085&sideLabels=00a085&dates=9ca3af" alt="Kevin's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevpstephens&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d4aa" alt="Kevin's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevpstephens&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d4aa&line=00a085&point=ffffff&area=true&hide_border=true&area_color=00a085" alt="Kevin's Contribution Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-trophy.vercel.app/?username=kevpstephens&theme=algolia&no-frame=true&row=1&column=4&margin-w=12&margin-h=12" alt="Kevin's GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+
+![Hits](https://hits.sh/github.com/kevpstephens/kevpstephens.svg?style=flat-square&label=profile%20hits&color=00d4aa)
+
 </div>
 
 <br><br>
@@ -199,7 +209,7 @@
 <!-- Section Divider -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=65&section=header&text=&fontSize=0" alt="" />
 </div>
 
 <!-- Contact Section -->
@@ -210,7 +220,7 @@
 
 <br>
 
-I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about SubOn, business systems, full-stack architecture, or you're simply curious about any of my work and would like to say "hi" — I'd love to hear from you!
+I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about SubOn, business systems, full-stack architecture, or you're simply curious about any of my work and would like to say "hi" - I'd love to hear from you!
 
 <br><br>
 
@@ -262,7 +272,7 @@ const probablyQuiteBadDevJoke = async () => {
 <!-- Footer Banner -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=footer&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:00a085&height=100&section=footer&text=&fontSize=0" alt="" />
 </div>
 
 <br><br>
