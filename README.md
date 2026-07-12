@@ -190,19 +190,7 @@ Collaborative lost & found web application
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevpstephens&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d4aa&line=00a085&point=ffffff&area=true&hide_border=true&area_color=00a085" alt="Kevin's Contribution Graph" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-trophy.vercel.app/?username=kevpstephens&theme=algolia&no-frame=true&row=1&column=4&margin-w=12&margin-h=12" alt="Kevin's GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-
-![Hits](https://hits.sh/github.com/kevpstephens/kevpstephens.svg?style=flat-square&label=profile%20hits&color=00d4aa)
-
-</div>
+<br><br>
 
 <br><br>
 
