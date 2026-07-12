@@ -16,7 +16,7 @@
 <!-- Sub-heading -->
 
 <div align="center">
-<h3>🎭 Drama Graduate → 📈 Equities Trader → 👨🏻‍💻 Full-Stack Developer</h3>
+<h3>🎭 Drama Graduate → 📈 Equities Trader → 👨🏻‍💻 Technical Systems Developer & SaaS Founder</h3>
 </div>
 
 <br>
@@ -41,12 +41,12 @@
 
 <!-- About Me Section -->
 
-- **Currently:** Open to new opportunities and collaboration
-- I'm a very active and motivated software developer, based in Birmingham, UK 🇬🇧
-- Bootcamp graduate from Northcoders (March–June 2025)
-- Former equities trader and drama graduate turned passionate coder
-- Love solving problems, building useful tools, and I'm not afraid of learning new tech
-- Always open to collaboration or a chat - feel free to connect!
+- **Currently:** Technical Systems Developer at Impacting Lives Limited — building business systems, workflow automation, and Google Apps Script solutions
+- **Also building:** [SubOn](https://www.subonapp.com/) — my pickup football SaaS for organisers (Expo, Next.js, Supabase, Stripe)
+- Based in Birmingham, UK 🇬🇧 · Northcoders graduate (March–June 2025)
+- Former equities trader and drama graduate turned passionate developer
+- I love solving real problems, shipping useful products, and learning new tech along the way
+- Always open to collaboration or a chat — feel free to connect!
 
 <br><br>
 
@@ -84,21 +84,39 @@
 <h1>📁 Featured Projects</h1>
 </div>
 
-### 🗞️ [Daily Spews](https://daily-spews.onrender.com/)
+### ⚽ [SubOn](https://www.subonapp.com/) _(in progress)_
 
-**A Reddit-style news app**
+**Pickup football organiser — join via link or QR, track RSVPs and payments**
 
-- **Backend:** RESTful API with Express.js & PostgreSQL
-- **Frontend:** React, CSS, responsive design
-- **Features:** User authentication, voting system, comment threads, post articles
-- 🔗 [Live Demo](https://daily-spews.onrender.com/) | [Backend Repo](https://github.com/kevpstephens/daily-spews-backend) | [Frontend Repo](https://github.com/kevpstephens/daily-spews-frontend)
+- **Stack:** Expo / React Native, Next.js, Supabase, PostgreSQL, Stripe, RevenueCat
+- **Monorepo:** pnpm workspaces + Turbo — native iOS/Android apps and a web layer for marketing, join/pay flows, and SubOn Pro billing
+- **Features:** Share join links & QR codes, squad payment tracking, team creation, push notifications, and deep linking
+- 🔗 [Live Site](https://www.subonapp.com/) | [Web App](https://sub-on-web.vercel.app)
+
+### 🎬 [SceneTogether](https://scenetogether.netlify.app/)
+
+**Community platform for discovering and attending local film screenings**
+
+- **Commissioned project** for Tech Returners — cross-platform on iOS, Android, and web
+- **Stack:** Expo / React Native, Express.js, Prisma, PostgreSQL, Supabase Auth, TMDB, Stripe
+- **Features:** Browse screenings with movie data, one-tap RSVP, calendar sync, admin dashboard, and flexible ticketing (free, fixed, pay-what-you-can)
+- 🔗 [Live Demo](https://scenetogether.netlify.app/) | [GitHub Repo](https://github.com/kevpstephens/scene-together)
+
+<!-- ### 🗞️ [Daily Spews](https://daily-spews.onrender.com/)
+
+**A Reddit-style satirical news platform**
+
+- **Backend:** Express.js, PostgreSQL & Supabase — JWT auth, file uploads, 123+ tests, security middleware
+- **Frontend:** React 19 — optimistic UI, infinite scroll, image cropping, mobile-first responsive design
+- **Features:** User authentication, voting, comment threads, topic filtering
+- 🔗 [Live Demo](https://daily-spews.onrender.com/) | [Backend Repo](https://github.com/kevpstephens/daily-spews-backend) | [Frontend Repo](https://github.com/kevpstephens/daily-spews-frontend) -->
 
 ### 🔍 [FoundIt](https://see-it-post-it-foundit.netlify.app/)
 
 **Collaborative lost & found web application**
 
-- **Tech Stack:** TypeScript, Next.js, MongoDB
-- **Team:** Built with 6 other developers using Agile methodology
+- **Tech Stack:** TypeScript, Next.js, MongoDB, Socket.io, Tailwind CSS
+- **Team:** Built with 6 other developers (Carly, Wan, Pourya, Ellie, Irina, Lera) using Agile methodology
 - **Role:** Full-stack development, API integration, UI/UX design
 - 🔗 [Live Demo](https://see-it-post-it-foundit.netlify.app) | [Team Organisation](https://github.com/Team-423) | [Backend Repo](https://github.com/Team-423/foundit-backend) | [Frontend Repo](https://github.com/Team-423/foundit-frontend)
 
@@ -128,7 +146,7 @@
 
 ### 🗃️ **Databases & Testing**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,jest" alt="PostgreSQL, MongoDB, Jest" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,jest" alt="PostgreSQL, MongoDB, Prisma, Supabase, Jest" />
 
 <br><br>
 
@@ -140,7 +158,7 @@
 
 ### ☁️ **Deployment & API Tools**
 
-<img src="https://skillicons.dev/icons?i=netlify,supabase,vercel,postman" alt="Netlify, Supabase, Vercel, Postman" />
+<img src="https://skillicons.dev/icons?i=netlify,supabase,vercel,docker,postman" alt="Netlify, Supabase, Vercel, Docker, Postman" />
 
 </div>
 
@@ -192,7 +210,7 @@
 
 <br>
 
-I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about code, share project ideas, or you're simply curious about any of my work and would like to say "hi" - I'd love to hear from you!
+I'm always interested in connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Whether you want to chat about SubOn, business systems, full-stack architecture, or you're simply curious about any of my work and would like to say "hi" — I'd love to hear from you!
 
 <br><br>
 
